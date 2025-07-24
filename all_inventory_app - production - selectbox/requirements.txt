@@ -1,6 +1,6 @@
 streamlit
 pandas
-Pillow  
+Pillow
 numpy
-python-barcode 
+python-barcode
 openpyxl
