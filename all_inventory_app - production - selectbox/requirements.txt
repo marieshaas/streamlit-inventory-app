@@ -1,0 +1,6 @@
+streamlit
+pandas
+Pillow  # Untuk Image, ImageDraw, ImageFont (PIL fork)
+numpy
+python-barcode # Untuk Code128 dan ImageWriter
+openpyxl # Pandas membutuhkan ini untuk membaca/menulis file .xlsx
